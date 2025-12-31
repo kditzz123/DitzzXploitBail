@@ -1,16 +1,16 @@
 {
-    "name": "GupongXyz/PongBail",
+    "name": "kditzz123/DitzzXploitBail",
     "version": "1.7.3",
-    "description": "WhatsApp Modified By GupongShop",
+    "description": "WhatsApp Modified By DitzzXploit",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/GupongXyz/PongBail",
+    "homepage": "https://github.com/kditzz123/DitzzXploitBail",
     "repository": {
-        "url": "https://github.com/GupongXyz/PongBail"
+        "url": "https://github.com/kditzz123/DitzzXploitBail"
     },
     "license": "MIT",
-    "author": "Gupong - Shop",
+    "author": "DitzzXploit",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://GupongXyz/PongBail/issues"
+      "url": "https://kditzz123/DitzzXploitBail/issues"
     }
 }
