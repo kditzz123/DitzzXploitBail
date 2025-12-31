@@ -1,14 +1,10 @@
-## Modified Whatsapp-API
-<p align='center'>
-  <img src="https://files.catbox.moe/rotxy8.jpg" width="172">
-</p>
-
+## Modified WhatsApp-Bailys
 --- 
 
 ## Usage
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:GupongXyz/PongBail"
+  "@whiskeysockets/baileys": "github:kditzz123/DitzzXploitBail"
 }
 ```
 ## Import
@@ -113,4 +109,5 @@ await client.relayMessage(m.chat, {
   }
 })
 ```
-Makasi Dhh Pake Ni Bail By GupongShop :>
+Makasi Dhh Pake 
+By DitzzXploit :>
